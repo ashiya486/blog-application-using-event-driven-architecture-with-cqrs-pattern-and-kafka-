@@ -2,11 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blogservice" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blogservice/blogCommand" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blogservice/blogquery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blogService" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/userService" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/userService/userCommand" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/userService/userQuery" charset="UTF-8" />
   </component>
 </project>

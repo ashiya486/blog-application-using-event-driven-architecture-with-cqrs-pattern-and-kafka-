@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/axon
+#logging:
+#  file: C:/Users/cogjava3587/Desktop/elk_log.log
